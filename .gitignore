@@ -1,0 +1,12 @@
+# never commit firmware images (1010music's or JOEBOX's), stock or patched
+*.BIN
+BLACKBOX*.bin
+BBEXTRA*.bin
+out/
+src/obj/
+__pycache__/
+.DS_Store
+
+# the compiled mod code is ours and is needed by apply.py
+!prebuilt/b1.bin
+!prebuilt/b2.bin

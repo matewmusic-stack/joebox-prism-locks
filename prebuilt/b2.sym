@@ -1,0 +1,16 @@
+0811bea4 t codes
+0811bf17 t n13
+0811bf10 t n14
+0811bd9c T plk_apply
+0811bd74 T plk_base
+0811bb98 T plk_fmt
+0811ba16 T plk_intern
+0811be84 T plk_knobval
+0811bf3c T plk_label_thunk
+0811bed4 T plk_names
+0811bc78 T plk_parse
+0811beb4 T plk_pids
+0811be54 T plk_reset
+0811babc T plk_setlock
+0811bf20 T plk_val_thunk
+0811ba00 t slot
